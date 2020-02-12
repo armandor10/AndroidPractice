@@ -1,0 +1,2 @@
+include ':appp'
+rootProject.name='Hello Toast'
